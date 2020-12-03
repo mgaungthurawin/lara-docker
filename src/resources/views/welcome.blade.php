@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Start With Jenkins
+                    Start Jenkins
                 </div>
 
                 <div class="links">
