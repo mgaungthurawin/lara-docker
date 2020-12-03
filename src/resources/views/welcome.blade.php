@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Local -> Git -> Jenkin -> Server
+                    Laravel
                 </div>
 
                 <div class="links">
