@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Jenkins
+                    Local -> Git -> Jenkin -> Server
                 </div>
 
                 <div class="links">
